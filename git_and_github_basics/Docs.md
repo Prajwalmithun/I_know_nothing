@@ -1,3 +1,6 @@
+# Overview
+![Github architecture](git_and_github_basics/images/1_github_architecture.png "github architecture")
+
 # Tools 
 1. git 
 2. Github Desktop
