@@ -4,7 +4,7 @@
 # Tools 
 1. git 
 2. Github Desktop
-3. [Online Markdown](https://stackedit.io/app#) 
+3. [Online Markdown](https://stackedit.io/app#) OR CTRL + SHIFT + V = Windows VSCode, CMD + SHIFT + V = Mac OS VSCode
 
 # Installation
 1. "git" installation (For Mac, Windows, GNU/Linux)
